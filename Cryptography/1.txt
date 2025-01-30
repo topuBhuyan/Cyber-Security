@@ -1,0 +1,32 @@
+
+
+1. .... .... .. ... .. .... .... ... .. .... .... ... . . .... .... . . ... ..... . ... ... .... . .... . ..... . ..... ..... ... . . ... ..
+... ..... ... . . .....
+cypher name: Tap Code
+ Decode meaning: thisisatapcodeexample
+	
+Decode meaning: Sms Oypr hy jm p rwysuowl rblpr fjo duc rcybiihd tibp uhxejhv uvgka
+
+
+2. &quot;Naq Ur sbhaq lbh ybfg naq thvqrq lbh&quot; (Dhena 93:7)
+
+ cypher name:m ROT13
+ Decode meaning: And He found you lost and guided you&dhbg; (Quran 93:7)
+
+3. opcqh lhxhu lmhta nynpy lnttz zskqe epyqi lziaf jzmhx flhzo hefcy poqeh hyj
+hint: Positions of rings A A A
+Positions of rotors 1,1,1
+Rotors: 1 2 3
+
+cypher name: Enigma Machine 
+Decode meaning: THEIMITATIONGAMEISAMOVEWHEREYOUCANWATCHHOWENIGMAMACHINEWASBUILD
+
+4. aaaba abbab abbaa aabba baaaa aaaaa baaba baabb ababa aaaaa baaba abaaa abbab abbaa
+
+ cypher name: Bacon Cipher
+ Decode meaning: CONGRATULATION
+
+
+5. cypher name: Vigenere Cipher
+	Decode meaning: Try Hack me is a platform where you can practice your hacking skill.
+
